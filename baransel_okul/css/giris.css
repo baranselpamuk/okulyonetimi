@@ -1,0 +1,42 @@
+body {
+	background: #326f85;
+}
+
+#girisTasiyici {
+	width: 300px;
+	margin: 80px auto;
+}
+
+	#girisUst {
+		margin-bottom: 15px;
+	}
+		
+		#girisUst h1, #girisUst h1 a {
+			font-weight: normal;
+			font-size: 22px;
+			color: #b3cfd8;
+		}
+	
+	#girisFormu {
+		background-color: #e8f9ff;
+	}
+	
+		#girisFormu p {
+			padding: 10px;
+		}
+		
+		#girisFormu label {
+			margin-bottom: 3px;
+			display: block;
+			font-size: 12px;
+		}
+		
+		#girisFormu .metinKutusu {
+			width: 96%;
+			font-weight: bold;
+		}
+		
+	#girisAlt {
+		color: #e8f9ff;
+		margin-top: 10px;
+	}
